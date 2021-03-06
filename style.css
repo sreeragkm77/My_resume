@@ -1,0 +1,49 @@
+.resume{
+    position: relative;
+    left: 150px;
+    color: white;
+    top: 20px;
+}
+.pic{
+    
+    position: relative;
+    left: 30%;
+    bottom:20px;
+    top:15px
+}
+.bot-bod{
+    border-bottom: tomato;
+    border-left: white;
+    border-right: white;
+    border-top: white;
+    border-style: solid;
+    border-width: 4px;
+    position: relative;
+    top: 10px;
+}
+.obj{
+    position: relative;
+    top: 10px;
+    text-decoration: underline;
+}
+.obj1{
+    font-size: 20px;
+}
+.top1{
+position: relative;
+top:30px;
+}
+.edu{
+    position: relative;
+    text-decoration: underline;
+}
+.tech{
+    text-decoration: underline;
+}
+.grad{
+    background-image:repeating-linear-gradient(rgb(0, 195, 255),rgb(12, 58, 59));
+    height: 100px;
+}
+.btm{
+    position: ;
+}
